@@ -75,6 +75,7 @@ body{
 .song-details p{
   color: var(--lightblack);
 }
+
 .song-details .name{
   font-size: 21px;
 }
